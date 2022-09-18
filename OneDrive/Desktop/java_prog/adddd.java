@@ -5,6 +5,5 @@ public class adddd {
         int c = 3;
         int sum =a+b+c;
         System.out.println("sum "+sum);
-    }
-    
+    } 
 }
